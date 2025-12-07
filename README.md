@@ -43,11 +43,6 @@ conda remove -n ecl-course-2025 --all
 For this Machine Learning project the dataset we consider is the [Vestiaire Collective Dataset](https://www.kaggle.com/c/bluebook-for-bulldozers/overview](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset
 ). 
 
-## How to use it
-run the streamlit app
-```shell
-streamlit run demo.py
-```
-## Collect data
+## Credits
 
 Dataset was scraped using Python and the Hrequests Library by Kaggle user JustinPakzad. 
