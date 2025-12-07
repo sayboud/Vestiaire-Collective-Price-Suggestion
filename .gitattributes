@@ -1,1 +1,2 @@
 vestiaire.csv filter=lfs diff=lfs merge=lfs -text
+data/vestiaire.csv filter=lfs diff=lfs merge=lfs -text
