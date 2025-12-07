@@ -40,7 +40,7 @@ conda remove -n ecl-course-2025 --all
 ```
 
 ## Collect data
-For this Machine Learning project the dataset we consider is the [Vestiaire Collective Dataset](https://www.kaggle.com/c/bluebook-for-bulldozers/overview](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset
+Link: [Vestiaire Collective Dataset](https://www.kaggle.com/c/bluebook-for-bulldozers/overview](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset
 ). 
 
 ## Credits
