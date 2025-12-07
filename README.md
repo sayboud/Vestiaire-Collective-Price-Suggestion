@@ -6,6 +6,12 @@ Designer fashion can hold good value and be sold on the second-hand market but t
 
 On the way, we will also uncover which features of a product are most important in the pricing.
 
+The chosen dataset contains product listings from Vestiaire Collective. The CSV file contains 900514 rows and 36 columns. In terms of the dataset for pre-owned fashion, it is the one with the most features available on Kaggle, providing details on the level of product, brand, seller, market and user engagement.
+
+
+
+
+
 ## Installation process
 This project uses python `3.11` as core interpreter, and poetry `1.8.3` as dependency manager.
 1) Create a new conda environment with
@@ -42,3 +48,6 @@ run the streamlit app
 ```shell
 streamlit run demo.py
 ```
+## Collect data
+
+Dataset was scraped using Python and the Hrequests Library by Kaggle user JustinPakzad. 
