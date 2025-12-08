@@ -8,9 +8,7 @@ On the way, we will also uncover which features of a product are most important 
 
 The chosen dataset contains product listings from Vestiaire Collective. The CSV file contains 900514 rows and 36 columns. In terms of the dataset for pre-owned fashion, it is the one with the most features available on Kaggle, providing details on the level of product, brand, seller, market and user engagement.
 
-
-
-
+Note: The number of Optuna trials was set to 1 in order to run all notebook cells faster.
 
 ## Installation process
 This project uses python `3.11` as core interpreter, and poetry `1.8.3` as dependency manager.
@@ -42,6 +40,12 @@ conda remove -n ecl-course-2025 --all
 ## Collect data
 Link: [Vestiaire Collective Dataset](https://www.kaggle.com/c/bluebook-for-bulldozers/overview](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset
 ). 
+
+## How to use it
+run the streamlit app
+```shell
+streamlit run demo.py
+```
 
 ## Credits
 
