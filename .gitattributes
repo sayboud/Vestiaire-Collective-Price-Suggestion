@@ -1,3 +1,5 @@
 vestiaire.csv filter=lfs diff=lfs merge=lfs -text
 data/vestiaire.csv filter=lfs diff=lfs merge=lfs -text
 CAT_regressor.pk filter=lfs diff=lfs merge=lfs -text
+data/df filter=lfs diff=lfs merge=lfs -text
+data/df_transformed filter=lfs diff=lfs merge=lfs -text
