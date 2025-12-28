@@ -1,0 +1,8 @@
+name: ecl-course-2025
+channels:
+  - defaults
+dependencies:
+  - python=3.11.9
+  - pip=24.2
+  - pip:
+    - poetry==1.8.3
