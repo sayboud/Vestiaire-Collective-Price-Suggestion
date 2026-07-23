@@ -2,7 +2,7 @@
 
 What is the price of a listing on Vestiaire Collective?
 
-Designer fashion can hold good value and be sold on the second-hand market but the appropriate price could be challenging. The purpose of the project is to fit the best regression model to suggest a selling price in order to list on Vestiaire Collective, an online marketplace for buying and selling pre-owned luxury fashion items.
+Designer fashion can hold good value and be sold on the second-hand market but choosing the appropriate price could be challenging. The purpose of the project is to fit the best regression model to suggest a selling price in order to list on Vestiaire Collective, an online marketplace for buying and selling pre-owned luxury fashion items.
 
 On the way, we will also uncover which features of a product are most important in the pricing.
 
